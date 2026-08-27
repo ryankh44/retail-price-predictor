@@ -52,6 +52,3 @@ The prediction workflow follows a structured data science pipeline:
 
 ---
 
-## 👤 Author
-**Ryan**  
-*Aspiring Data Science & AI Professional*

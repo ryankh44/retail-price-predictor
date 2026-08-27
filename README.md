@@ -2,7 +2,7 @@
 
 An end-to-end machine learning web application designed to estimate optimal e-commerce product retail prices based on competitor catalog patterns, text features, and brand categorizations. 
 
-🔗 **Live App Demo:** [View Live Streamlit App](https://retail-price-predictor-zxyq3gnry5yrcux7wu929w.streamlit.app)
+🔗 **Live App Demo:** [View Live Streamlit App](retail-price-predictor-2hytueqfwf6oij5m6qmbuh.streamlit.app)
 
 ---
 
